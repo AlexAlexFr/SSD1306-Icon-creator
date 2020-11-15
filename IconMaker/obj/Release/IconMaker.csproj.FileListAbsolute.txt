@@ -1,0 +1,9 @@
+C:\Users\aivan\source\repos\IconMaker\bin\Release\IconMaker.exe.config
+C:\Users\aivan\source\repos\IconMaker\bin\Release\IconMaker.exe
+C:\Users\aivan\source\repos\IconMaker\bin\Release\IconMaker.pdb
+C:\Users\aivan\source\repos\IconMaker\obj\Release\IconMaker.Form1.resources
+C:\Users\aivan\source\repos\IconMaker\obj\Release\IconMaker.Properties.Resources.resources
+C:\Users\aivan\source\repos\IconMaker\obj\Release\IconMaker.csproj.GenerateResource.cache
+C:\Users\aivan\source\repos\IconMaker\obj\Release\IconMaker.csproj.CoreCompileInputs.cache
+C:\Users\aivan\source\repos\IconMaker\obj\Release\IconMaker.exe
+C:\Users\aivan\source\repos\IconMaker\obj\Release\IconMaker.pdb
