@@ -1,2 +1,3 @@
 # SSD1306-Icon-creator
-Application for generation of char array from icon
+C# Application for generation of char array from icon.
+Array is generated according to chosen SSD1306 mode (vertical or horizontal). Icon is created through graphic interface.
